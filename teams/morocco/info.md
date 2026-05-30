@@ -24,13 +24,13 @@
 
 ## Form & Vorbereitung
 - Afrika-Cup 2024: Viertelfinale
-- Regragui's System: Defensiv sehr kompakt, schnelle Umschaltmomente
+- Ouahbis System: Defensiv sehr kompakt, schnelle Umschaltmomente
 - Ziyech Klub-Situation unklar aber national weiter wichtig
 - Hakimi: PSG-Form auf höchstem Niveau
 
 ## Stärken / Schwächen
 **Stärken:**
-- Defensivsystem: Weltklasse-Organisation unter Regragui
+- Defensivsystem: Weltklasse-Organisation unter Ouahbi
 - Hakimi: Bester Rechtsverteidiger der Welt
 - Kampfgeist: 2022 haben sie jeden Gegner besiegt — Portugal, Spanien, Belgien
 - Starke Einheit — Team über Einzelspieler
@@ -38,7 +38,7 @@
 **Schwächen:**
 - Gruppe C: Brasilien ist eine Klasse für sich
 - Offensiv limitiert — hängt stark von individuellen Momenten ab
-- Nach 2022-Halbfinale: Kann Regragui das System aktuell halten?
+- Nach 2022-Halbfinale: Kann Ouahbi das Niveau aktuell halten?
 - Amrabat nach Viral-Moment: Erwartungen sehr hoch
 
 ## El-Profi-Einschätzung

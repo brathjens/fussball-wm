@@ -17,17 +17,17 @@
 | Spieler | Verein | Rolle |
 |---------|--------|-------|
 | Alphonso Davies | Bayern München | Linksverteidiger, einer der weltbesten |
-| Jonathan David | TBD | Mittelstürmer, Topscorer CONCACAF-Quali |
+| Jonathan David | TBD | Mittelstürmer, Kanadas Rekordtorschütze |
 | Tajon Buchanan | Inter Mailand | Außenbahn |
 | Cyle Larin | TBD | Stürmer |
 | Atiba Hutchinson | TBD | Veterano, Kapitän (evtl. zurückgetreten) |
 | Ismael Koné | Marseille | Mittelfeld |
 
 ## Form & Vorbereitung
-- CONCACAF-Qualifikation: Automatisch als Gastgeber (2022 qualifiziert)
+- CONCACAF-Qualifikation: 2026 als Co-Gastgeber qualifiziert
 - Jesse Marsch: Intensiver Pressing-Stil aus seiner Red-Bull-Schule
 - Davies: Wenn fit, Weltklasse-Niveau
-- David bei Lille/TBD: Europas beste Torjäger-Quote
+- David: 39 Tore für Kanada und dauerhaft Toplösung im Angriff
 
 ## Stärken / Schwächen
 **Stärken:**

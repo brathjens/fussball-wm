@@ -26,7 +26,7 @@
 - Afrika-Cup 2024: Gruppenphase
 - Kudus: Herausragende Saisons in der Premier League
 - Inaki Williams: Hat sich für Ghana entschieden statt Spanien
-- Addo: Kennt die Spieler aus seiner Bundesliga-Erfahrung
+- Queiroz: Bringt WM-Erfahrung und klare Struktur mit
 
 ## Stärken / Schwächen
 **Stärken:**
