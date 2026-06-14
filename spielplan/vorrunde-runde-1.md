@@ -9,10 +9,10 @@
 | 11. Jun | A | Südkorea vs. Tschechien | Estadio Akron, Guadalajara | **2:1 KOR** ⚡Mittel | 2:1 KOR |
 | 12. Jun | B | Kanada vs. Bosnien-Herzegowina | BMO Field, Toronto | **2:0 CAN** ⚡Niedrig | 1:1 |
 | 12. Jun | D | USA vs. Paraguay | SoFi Stadium, Los Angeles | **2:1 USA** ⚡Mittel | 4:1 USA |
-| 13. Jun | B | Katar vs. Schweiz | Levi's Stadium, San Francisco | **0:3 SUI** ⚡Niedrig | – |
-| 13. Jun | C | Brasilien vs. Marokko | MetLife Stadium, New York/NJ | **2:1 BRA** ⚡Mittel | – |
-| 13. Jun | C | Haiti vs. Schottland | Gillette Stadium, Boston | **0:2 SCO** ⚡Niedrig | – |
-| 13. Jun | D | Australien vs. Türkei | BC Place, Vancouver | **1:1** ⚡Mittel | – |
+| 13. Jun | B | Katar vs. Schweiz | Levi's Stadium, San Francisco | **0:3 SUI** ⚡Niedrig | 1:1 |
+| 13. Jun | C | Brasilien vs. Marokko | MetLife Stadium, New York/NJ | **2:1 BRA** ⚡Mittel | 1:1 |
+| 13. Jun | C | Haiti vs. Schottland | Gillette Stadium, Boston | **0:2 SCO** ⚡Niedrig | 0:1 SCO |
+| 13. Jun | D | Australien vs. Türkei | BC Place, Vancouver | **1:1** ⚡Mittel | 2:0 AUS |
 | 14. Jun | E | Deutschland vs. Curaçao | NRG Stadium, Houston | **4:0 GER** ⚡Niedrig | – |
 | 14. Jun | E | Elfenbeinküste vs. Ecuador | Lincoln Financial Field, Philadelphia | **2:1 CIV** ⚡Mittel | – |
 | 14. Jun | F | Niederlande vs. Japan | AT&T Stadium, Dallas | **2:1 NED** ⚡Mittel | – |
