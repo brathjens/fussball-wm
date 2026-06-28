@@ -1,6 +1,6 @@
 # Spieler-Events & News — WM 2026
 
-*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Runde 2 abgeschlossen (23. Jun)*
+*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Runde 3 abgeschlossen (27. Jun), Gruppenphase beendet*
 
 ---
 
@@ -29,6 +29,11 @@
 | Spieler | Team | Problem | Status | Tipp-Impact |
 |---------|------|---------|--------|-------------|
 | Bukayo Saka | England | Achillessehne | Spielfähig, aber England begrenzt seine Einsatzzeit bewusst | Mittel — Gegen starke Gegner könnte Saka früh ausgewechselt werden. Tiefe auf der Position vorhanden (Gordon, Rashford) |
+| Nico Williams | Spanien | Muskelverletzung | Runde 3 vs. Uruguay — Ausmaß unklar, KO-Einsatz fraglich | Hoch — Spaniens bester Dribbler, fehlt gegen starke Gegner deutlich |
+| Yeremy Pino | Spanien | Verletzung | Runde 3 vs. Uruguay, gleichzeitig mit Williams — KO-Einsatz fraglich | Mittel — Spanien hat Breite auf den Außenbahnen, aber zwei Ausfälle gleichzeitig schmerzen |
+| Mohamed Salah | Ägypten | Knieproblem | Runde 3 vs. Iran — KO-Teilnahme in der Schwebe, medizinische Tests ausstehend | Sehr hoch — Ägypten ohne Salah ist offensiv nahezu harmlos |
+| Reece James | England | Muskelverletzung | Runde 3 vs. Panama — fällt für die nächsten 2 Partien aus | Mittel — Trent Alexander-Arnold / Trippier als Alternativen auf der Rechtsverteidiger-Position |
+| Declan Rice | England | Fitnesssorgen | Runde 3 vs. Panama geschont (Belastungsmanagement) | Niedrig — Fit genug für KO-Runde, Schonung war präventiv |
 
 ---
 
@@ -38,13 +43,35 @@
 |---------|------|-------|-------------|--------|-------------|
 | Nicolás Otamendi | Argentinien | Rote Karte (Pre-Tournament, Freundschaftsspiel vs. Ecuador) | Runde 1 | Abgesessen | Niedrig — Otamendi fehlte gegen Algerien, aber Argentinien gewann 3:0. Lisandro Martínez überzeugte als Ersatz |
 | Moisés Caicedo | Ecuador | Rote Karte (Pre-Tournament) | Runde 1 | Abgesessen | Hoch — Ecuadors bester Mittelfeldspieler fehlte gegen Elfenbeinküste. Mitverantwortlich für das 0:1 |
-| Assim Madibo | Katar | Rote Karte (gefährliches Foul an Ismael Kone) | Runde 3 | Gesperrt | Niedrig — Katar schon ausgeschieden nach 0:6 vs. Kanada und Runde-1-Ergebnis |
+| Assim Madibo | Katar | Rote Karte (gefährliches Foul an Ismael Kone) | Runde 3 | Abgesessen | Niedrig — Katar schon ausgeschieden nach 0:6 vs. Kanada und Runde-1-Ergebnis |
+| Rebin Sulaka | Irak | Rote Karte (DOGSO) | Runde 3, 13' vs. Senegal | Abgesessen | Niedrig — Irak bereits ausgeschieden; Senegal ballerte trotzdem 5:0 |
 
-> **Gelbe Karten — Tracking Runde 2:** Noch kein Spieler an der 2-Gelb-Schwelle bekannt. Nach Runde 3 Sperre möglich für Spieler mit 2 Gelben in Gruppe. Tracking läuft.
+> **Gelbe Karten gelöscht:** Mit Ende der Gruppenphase werden alle Gelben Karten gestrichen. Niemand geht mit Vorwarnung in die KO-Runde (Reset gilt erneut nach dem Viertelfinale).
 
 ---
 
 ## 3. Top-Performances
+
+### Runde 3 (24.–27. Juni)
+
+**Ousmane Dembélé** 🇫🇷 — *Frankreich 4:1 Norwegen (26. Jun)*
+Hattrick in 32 Minuten (7', 20', 32') — zweiter schnellster WM-Hattrick aller Zeiten. Frankreich gewinnt die Gruppe souverän, Dembele katapultiert sich in den Golden-Boot-Kampf. Der Mann war vorher der ruhigste Punkt bei Frankreich, jetzt dreht er auf.
+
+**Gonzalo Plata** 🇪🇨 — *Ecuador 2:1 Deutschland (25. Jun)*
+Siegtor in der 77. Minute — Neuer patzt, Plata nutzt es eiskalt. Ecuador schlägt den zweifachen Weltmeister, qualifiziert sich für die KO-Runde. Das ist der Upset der Gruppenphase.
+
+**Arda Güler** 🇹🇷 — *Türkei 3:2 USA (25. Jun)*
+Traumtor zum 1:0 in der 10. Minute, nachdem die USA durch Trusty (3') geführt hatte. Türkei dreht das Spiel komplett — Yilmaz (31'), Ayhan (90+8') machen das Ergebnis perfekt. Güler ist der Spielmacher, den das Turnier brauchte.
+
+**Thapelo Maseko** 🇿🇦 — *Südafrika 1:0 Südkorea (24. Jun)*
+Einziges Tor des Spiels. Südafrika qualifiziert sich damit für die WM-KO-Runde — **das erste Mal in der Geschichte**. Historisch.
+
+**Nicholas Pepe** 🇨🇮 — *Elfenbeinküste 2:0 Curaçao (25. Jun)*
+Doppelpack (7', 64'), Curaçao ohne Chance. Elfenbeinküste schließt die Gruppe stark ab, Pepe war der Joker, den niemand auf dem Zettel hatte.
+
+**Schnelle Tore Runde 3:**
+- Sané (Deutschland) vs. Ecuador: Tor nach **2 Minuten** — half nichts, ECU dreht's um
+- Trusty (USA) vs. Türkei: Tor nach **3 Minuten** — USA führt früh, verliert trotzdem
 
 ### Runde 2 (18.–23. Juni)
 
@@ -90,6 +117,33 @@ Nicht ein Spieler, sondern das System: 7 Tore von 6 verschiedenen Schützen. Mus
 ---
 
 ## 4. Teamdynamik & Sonstige News
+
+**Ecuador stunt Deutschland — trotzdem beide weiter (Stand: nach Runde 3)**
+Ecuador gewinnt 2:1 (Angulo 9', Plata 77'; Sané 2'), aber Deutschland schließt Gruppe E trotzdem als Sieger ab — die Tordifferenz aus dem 7:1 gegen Curaçao rettet sie. Ecuador als Zweiter. Nagelsmann wird die Defensive auf dem Reißbrett neu sortieren müssen.
+
+**Türkei 3:2 USA — beides weiter (Stand: nach Runde 3)**
+Wilde Partie: USA führt früh (Trusty 3'), Türkei dreht komplett um (3:1), USA kommt zurück (2:3), Ayhan macht das 3:2 in der 90+8'. USA als Gruppensieger trotzdem weiter (6 Punkte aus Rd. 1+2). Türkei als Drittplatzierter auch im Rennen für die KO-Runde.
+
+**Südafrika historisch — erstmals in der WM-KO-Runde (Stand: nach Runde 3)**
+1:0 gegen Südkorea (Maseko). Südafrika qualifiziert sich als Drittplatzierter in Gruppe A. Zum ersten Mal in der Geschichte stehen sie in der KO-Runde einer WM. Riesiger Moment für den afrikanischen Fußball.
+
+**Kap Verde — das Märchen ist perfekt (Stand: nach Runde 3)**
+0:0 gegen Saudi-Arabien reicht für Platz 2 in Gruppe H. Uruguay (Dritter) scheidet aus, obwohl sie 4 Punkte hatten — Tordifferenz gegen die 8 besten Drittplatzierten nicht ausreichend. Vozinha wieder überragend. CPV erstmals in der Geschichte im WM-Achtelfinale.
+
+**Spanien-Doppel-Verletzungsproblem (Stand: nach Runde 3)**
+Williams und Pino verletzen sich beide im Runde-3-Spiel gegen Uruguay (0:1 ESP, Baena 42'). Spanien gewinnt, aber kommt mit Verletzungssorgen auf beiden Außenbahnen aus der Gruppenphase. Das ist das größte Rätsel vor dem KO-Start.
+
+**Portugal — Torarmut setzt sich fort (Stand: nach Runde 3)**
+0:0 gegen Kolumbien. Nach dem 0:0 gegen Kap Verde in Runde 1 jetzt die zweite Nullnummer. Portugal qualifiziert sich als Gruppensieger (Gruppe K), aber Ronaldo war in beiden Partien unsichtbar. Bruno Fernandes trägt die Last — Frage nach der Hierarchie bleibt.
+
+**Belgien erwacht zu spät (Stand: nach Runde 3)**
+5:1 gegen Neuseeland — nach 0:0, 0:0 in den ersten beiden Spielen endlich die Tore. Lukaku traf, De Bruyne führte das Spiel. Belgien schließt als Zweiter in Gruppe G ab, aber kann die Maschine auch gegen starke Gegner laufen? Das ist die KO-Frage.
+
+**Dembele-Phänomen (Stand: nach Runde 3)**
+Frankreich 4:1 Norwegen, Hattrick in 32 Minuten. Norwegen (Haaland ohne Tor) scheidet aus. Mbappé trat kaum in Erscheinung — Dembele stahl die Show komplett. Für die KO-Runde: Frankreich hat jetzt zwei Waffen vorne.
+
+**Golden Boot nach Gruppenphase:**
+Messi führt mit 5 Toren (3 vs. Algerien R1 + 2 vs. Österreich R2 + 1 vs. Jordanien R3?). Haaland (4) und Mbappé (4) dahinter. Dembele (3) als Newcomer im Rennen.
 
 **Kap Verde — Cinderella geht weiter (Stand: nach Runde 2)**
 2:2 gegen Uruguay nach 0:0 gegen Spanien in Runde 1 — Kap Verde ist das Märchen des Turniers. Helio Varela mit dem Ausgleich. Runde 3 entscheidet über das Weiterkommen. Vozinha im Tor weiter überragend.
