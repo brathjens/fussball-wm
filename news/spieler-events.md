@@ -1,6 +1,6 @@
 # Spieler-Events & News — WM 2026
 
-*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Runde 3 abgeschlossen (27. Jun), Gruppenphase beendet*
+*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Sechzehntelfinale läuft (3. Jul 2026), Achtelfinale-Tipps gesetzt*
 
 ---
 
@@ -12,6 +12,8 @@
 |---------|------|-----------|---------|-------------|
 | Nico Schlotterbeck | Deutschland | Innenbandriss Sprunggelenk (links) | 20. Jun vs. Elfenbeinküste — WM vorzeitig beendet | Hoch — Schlotterbeck war gesetzt in der Viererkette, hatte in Runde 1 ein Tor erzielt. Nachrückt wird intern gelöst |
 | Ismael Kone | Kanada | Schwere Verletzung (Ausmaß unklar) | 18. Jun vs. Katar — brutales Foul von Assim Madibo (Rote Karte). Verletzungstiefe noch nicht kommuniziert | Mittel — Kone ist wichtiger Mittelfeldmotor, aber Kanada gewann 6:0 auch ohne ihn ab dem Foul |
+| Lucas Paquetá | Brasilien | Hamstring Grade II links | Verletzt in R16 vs. Japan (erste Halbzeit) — Bildgebung bestätigt Grad-II-Riss, für Achtelfinale vs. Norwegen OUT | Hoch — Brasiliens Schlüsselmann im Mittelfeld. Neymar rückt möglicherweise in die Startelf |
+| Tino Livramento | England | Wadenzerrung | Vor Sechzehntelfinale — durch Trevoh Chalobah ersetzt (nachnominiert) | Mittel — England verliert einen Rechtsverteidiger, Alexander-Arnold / Trippier als Optionen |
 
 ### Nicht im Kader (Ausfall vor Turnier)
 
@@ -32,8 +34,12 @@
 | Nico Williams | Spanien | Muskelverletzung | Runde 3 vs. Uruguay — Ausmaß unklar, KO-Einsatz fraglich | Hoch — Spaniens bester Dribbler, fehlt gegen starke Gegner deutlich |
 | Yeremy Pino | Spanien | Verletzung | Runde 3 vs. Uruguay, gleichzeitig mit Williams — KO-Einsatz fraglich | Mittel — Spanien hat Breite auf den Außenbahnen, aber zwei Ausfälle gleichzeitig schmerzen |
 | Mohamed Salah | Ägypten | Knieproblem | Runde 3 vs. Iran — KO-Teilnahme in der Schwebe, medizinische Tests ausstehend | Sehr hoch — Ägypten ohne Salah ist offensiv nahezu harmlos |
-| Reece James | England | Muskelverletzung | Runde 3 vs. Panama — fällt für die nächsten 2 Partien aus | Mittel — Trent Alexander-Arnold / Trippier als Alternativen auf der Rechtsverteidiger-Position |
+| Reece James | England | Muskelverletzung | Runde 3 vs. Panama — fällt für mindestens 2 Partien aus (inkl. Achtelfinale) | Mittel — Trent Alexander-Arnold / Trippier als Alternativen auf der Rechtsverteidiger-Position |
 | Declan Rice | England | Fitnesssorgen | Runde 3 vs. Panama geschont (Belastungsmanagement) | Niedrig — Fit genug für KO-Runde, Schonung war präventiv |
+| Alphonso Davies | Kanada | Hamstring | Limitiert im Training vor Achtelfinale — Einsatz fraglich, aber Richie Laryea als sicherer Ersatz | Mittel — Davies ist Kanadas Spielmacher links, aber Laryea kennt die Rolle |
+| Casemiro | Brasilien | Muskelverletzung (Ausmaß unklar) | Fiel in der 92. Minute im R16-Spiel vs. Japan hin — Einsatz vs. Norwegen in der Schwebe | Hoch — Ohne Casemiro UND Paquetá wäre Brasiliens Mittelfeld massiv geschwächt |
+| Kevin De Bruyne | Belgien | Fitness / Minutenmanagement | Hat noch keine 90 Minuten im Turnier gespielt — gegen Senegal nach 56 Min. ausgewechselt | Mittel — De Bruyne fit genug für 60-70 Minuten, aber volle 90 Min. fraglich. Entscheidendes Risiko vs. USA |
+| Neymar | Brasilien | Wadenzerrung (Grad II, re.) | Einwechslung vs. Schottland (76. Min.) — möglicherweise Startelf-Kandidat wenn Paquetá/Casemiro fehlen | Mittel — Mit 34 Jahren und monatelanger Verletzungspause kein Stammkraft-Faktor, aber im entscheidenden Moment gefährlich |
 
 ---
 
@@ -41,6 +47,7 @@
 
 | Spieler | Team | Grund | Gesperrt für | Status | Tipp-Impact |
 |---------|------|-------|-------------|--------|-------------|
+| Folarin Balogun | USA | Rote Karte im Sechzehntelfinale vs. Bosnien | Achtelfinale vs. Belgien (7. Jul) | Gesperrt | Sehr hoch — Balogun war Torschützenkönig USA (3 Tore). Pepi/Wright als Ersatz deutlich schwächer |
 | Nicolás Otamendi | Argentinien | Rote Karte (Pre-Tournament, Freundschaftsspiel vs. Ecuador) | Runde 1 | Abgesessen | Niedrig — Otamendi fehlte gegen Algerien, aber Argentinien gewann 3:0. Lisandro Martínez überzeugte als Ersatz |
 | Moisés Caicedo | Ecuador | Rote Karte (Pre-Tournament) | Runde 1 | Abgesessen | Hoch — Ecuadors bester Mittelfeldspieler fehlte gegen Elfenbeinküste. Mitverantwortlich für das 0:1 |
 | Assim Madibo | Katar | Rote Karte (gefährliches Foul an Ismael Kone) | Runde 3 | Abgesessen | Niedrig — Katar schon ausgeschieden nach 0:6 vs. Kanada und Runde-1-Ergebnis |
@@ -117,6 +124,15 @@ Nicht ein Spieler, sondern das System: 7 Tore von 6 verschiedenen Schützen. Mus
 ---
 
 ## 4. Teamdynamik & Sonstige News
+
+**Paraguay schmeißt Deutschland raus — Cinderella-Story geht weiter (Stand: Sechzehntelfinale)**
+Paraguay gewinnt gegen Deutschland (Weltrangliste 12) im Elfmeterschießen. Als Drittplatzierter aus der Gruppe gegen einen Favoriten — jetzt wartet Frankreich. Das ist die größte Überraschung der KO-Runde bisher.
+
+**Mexiko im Azteca — der Heimvorteil-Joker (Stand: Sechzehntelfinale)**
+Mexiko schlägt Ecuador 2:0 zu Hause, alle Heimspiele gewonnen ohne Gegentor. England muss nun ins Azteca (2250 m Höhe). Thomas Tuchel: "Unmöglich" sich an die Höhe in dieser Zeitspanne anzupassen. Mexiko als Außenseiter in den Quoten, aber realer Favorit mit Heimvorteil.
+
+**USA ohne Balogun vs. Belgien (Stand: Sechzehntelfinale)**
+Folarin Balogun (3 WM-Tore!) sieht Rot gegen Bosnien → gesperrt für das Belgien-Spiel. Das ist der kritischste Ausfall für die USA bisher. Pepi und Wright sind solide, aber nicht ansatzweise dasselbe Niveau.
 
 **Ecuador stunt Deutschland — trotzdem beide weiter (Stand: nach Runde 3)**
 Ecuador gewinnt 2:1 (Angulo 9', Plata 77'; Sané 2'), aber Deutschland schließt Gruppe E trotzdem als Sieger ab — die Tordifferenz aus dem 7:1 gegen Curaçao rettet sie. Ecuador als Zweiter. Nagelsmann wird die Defensive auf dem Reißbrett neu sortieren müssen.
