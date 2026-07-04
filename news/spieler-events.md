@@ -1,6 +1,6 @@
 # Spieler-Events & News — WM 2026
 
-*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Sechzehntelfinale läuft (3. Jul 2026), Achtelfinale-Tipps gesetzt*
+*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Achtelfinale (4. Jul 2026), Tipps gesetzt*
 
 ---
 
@@ -31,9 +31,11 @@
 | Spieler | Team | Problem | Status | Tipp-Impact |
 |---------|------|---------|--------|-------------|
 | Bukayo Saka | England | Achillessehne | Spielfähig, aber England begrenzt seine Einsatzzeit bewusst | Mittel — Gegen starke Gegner könnte Saka früh ausgewechselt werden. Tiefe auf der Position vorhanden (Gordon, Rashford) |
-| Nico Williams | Spanien | Muskelverletzung | Runde 3 vs. Uruguay — Ausmaß unklar, KO-Einsatz fraglich | Hoch — Spaniens bester Dribbler, fehlt gegen starke Gegner deutlich |
-| Yeremy Pino | Spanien | Verletzung | Runde 3 vs. Uruguay, gleichzeitig mit Williams — KO-Einsatz fraglich | Mittel — Spanien hat Breite auf den Außenbahnen, aber zwei Ausfälle gleichzeitig schmerzen |
-| Mohamed Salah | Ägypten | Knieproblem | Runde 3 vs. Iran — KO-Teilnahme in der Schwebe, medizinische Tests ausstehend | Sehr hoch — Ägypten ohne Salah ist offensiv nahezu harmlos |
+| Nico Williams | Spanien | Muskelverletzung | Runde 3 vs. Uruguay — im Achtelfinale vs. Österreich geschont, für Portugal-Spiel verfügbar | Niedrig — zurück im Kader |
+| Yeremy Pino | Spanien | Verletzung | Runde 3 vs. Uruguay — Status für Achtelfinale unklar | Niedrig — Dani Olmo als qualitätsgleiche Alternative |
+| Mohamed Salah | Ägypten | Oberschenkelverletzung | Runde 3 vs. Iran — spielte trotz Verletzung im R32 vs. Australien (startete, historisch erste KO-Teilnahme Ägyptens), für Achtelfinale vs. ARG reduziert einsatzfähig | Hoch — spielt, aber nicht bei 100%; ohne ihn wäre Ägypten chancenlos |
+| Cuti Romero | Argentinien | Knieproblem | R16-Spiel vs. Kap Verde (57. Min.) — Kniebeschwerden am selben Knie wie April-Verletzung, Bildgebung ausstehend | Mittel — ARG hat Alternativen (Lisandro Martínez), aber Romero-Ausfall schwächt die Defensive |
+| Lamine Yamal | Spanien | Oberschenkel | Leichte Verletzung in Gruppenphase — vollständig erholt, topfit für Achtelfinale vs. Portugal | Niedrig — Yamal fit, spielt |
 | Reece James | England | Muskelverletzung | Runde 3 vs. Panama — fällt für mindestens 2 Partien aus (inkl. Achtelfinale) | Mittel — Trent Alexander-Arnold / Trippier als Alternativen auf der Rechtsverteidiger-Position |
 | Declan Rice | England | Fitnesssorgen | Runde 3 vs. Panama geschont (Belastungsmanagement) | Niedrig — Fit genug für KO-Runde, Schonung war präventiv |
 | Alphonso Davies | Kanada | Hamstring | Limitiert im Training vor Achtelfinale — Einsatz fraglich, aber Richie Laryea als sicherer Ersatz | Mittel — Davies ist Kanadas Spielmacher links, aber Laryea kennt die Rolle |
