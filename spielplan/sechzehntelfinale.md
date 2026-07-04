@@ -16,8 +16,8 @@
 | 1. Jul | Belgien vs. Senegal | **5:4 n.E. BEL** ⚡Hoch | 3:2 n.V. BEL |
 | 2. Jul | USA vs. Bosnien-Herzegowina | **2:0 USA** ⚡Niedrig | 2:0 USA |
 | 2. Jul | Spanien vs. Österreich | **2:1 ESP** ⚡Mittel | 3:0 ESP |
-| 3. Jul | Portugal vs. Kroatien | **5:4 n.E. POR** ⚡Mittel | – |
-| 3. Jul | Schweiz vs. Algerien | **2:0 SUI** ⚡Niedrig | – |
-| 3. Jul | Australien vs. Ägypten | **5:3 n.E. AUS** ⚡Sehr hoch | – |
-| 4. Jul | Argentinien vs. Kap Verde | **4:0 ARG** ⚡Niedrig | – |
-| 4. Jul | Kolumbien vs. Ghana | **2:0 COL** ⚡Niedrig | – |
+| 3. Jul | Portugal vs. Kroatien | **5:4 n.E. POR** ⚡Mittel | 2:1 POR |
+| 3. Jul | Schweiz vs. Algerien | **2:0 SUI** ⚡Niedrig | 2:0 SUI |
+| 3. Jul | Australien vs. Ägypten | **5:3 n.E. AUS** ⚡Sehr hoch | 3:5 n.E. EGY |
+| 4. Jul | Argentinien vs. Kap Verde | **4:0 ARG** ⚡Niedrig | 3:2 n.V. ARG |
+| 4. Jul | Kolumbien vs. Ghana | **2:0 COL** ⚡Niedrig | 1:0 COL |
