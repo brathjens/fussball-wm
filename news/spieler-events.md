@@ -1,6 +1,6 @@
 # Spieler-Events & News — WM 2026
 
-*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Achtelfinale (4. Jul 2026), Tipps gesetzt*
+*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Viertelfinale (8. Jul 2026), Tipps gesetzt*
 
 ---
 
@@ -14,6 +14,7 @@
 | Ismael Kone | Kanada | Schwere Verletzung (Ausmaß unklar) | 18. Jun vs. Katar — brutales Foul von Assim Madibo (Rote Karte). Verletzungstiefe noch nicht kommuniziert | Mittel — Kone ist wichtiger Mittelfeldmotor, aber Kanada gewann 6:0 auch ohne ihn ab dem Foul |
 | Lucas Paquetá | Brasilien | Hamstring Grade II links | Verletzt in R16 vs. Japan (erste Halbzeit) — Bildgebung bestätigt Grad-II-Riss, für Achtelfinale vs. Norwegen OUT | Hoch — Brasiliens Schlüsselmann im Mittelfeld. Neymar rückt möglicherweise in die Startelf |
 | Tino Livramento | England | Wadenzerrung | Vor Sechzehntelfinale — durch Trevoh Chalobah ersetzt (nachnominiert) | Mittel — England verliert einen Rechtsverteidiger, Alexander-Arnold / Trippier als Optionen |
+| Amadou Onana | Belgien | ACL-Riss (Knie) | Achtelfinale vs. USA (7. Jul) — Erste Halbzeit, Knieprobleme, WM vorzeitig beendet | Sehr hoch — Belgiens defensiver Mittelfeldmotor fällt aus. De Bruyne ohne Schutz und Entlastung im VF vs. Spanien |
 
 ### Nicht im Kader (Ausfall vor Turnier)
 
