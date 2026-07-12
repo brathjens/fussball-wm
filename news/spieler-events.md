@@ -1,6 +1,6 @@
 # Spieler-Events & News — WM 2026
 
-*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Viertelfinale (8. Jul 2026), Tipps gesetzt*
+*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Halbfinale (12. Jul 2026), Tipps gesetzt*
 
 ---
 
@@ -43,6 +43,10 @@
 | Casemiro | Brasilien | Muskelverletzung (Ausmaß unklar) | Fiel in der 92. Minute im R16-Spiel vs. Japan hin — Einsatz vs. Norwegen in der Schwebe | Hoch — Ohne Casemiro UND Paquetá wäre Brasiliens Mittelfeld massiv geschwächt |
 | Kevin De Bruyne | Belgien | Fitness / Minutenmanagement | Hat noch keine 90 Minuten im Turnier gespielt — gegen Senegal nach 56 Min. ausgewechselt | Mittel — De Bruyne fit genug für 60-70 Minuten, aber volle 90 Min. fraglich. Entscheidendes Risiko vs. USA |
 | Neymar | Brasilien | Wadenzerrung (Grad II, re.) | Einwechslung vs. Schottland (76. Min.) — möglicherweise Startelf-Kandidat wenn Paquetá/Casemiro fehlen | Mittel — Mit 34 Jahren und monatelanger Verletzungspause kein Stammkraft-Faktor, aber im entscheidenden Moment gefährlich |
+| Aurélien Tchouaméni | Frankreich | Muskelverletzung (Training) | Verpasste die letzten zwei Spiele (u.a. vs. Marokko), Rückkehr zum Halbfinale vs. Spanien (14. Jul) möglich | Hoch — Ohne ihn fehlt Frankreichs Absicherung vor der Abwehr im Mittelfeldzentrum |
+| Kylian Mbappé | Frankreich | Knöchel-Blessur | Im 2:0 vs. Marokko in der 77. Min. ausgewechselt, laut eigener Aussage "komplett fit" für Spanien | Niedrig — vorsorgliche Schonung, kein echtes Ausfallrisiko |
+| Marc Guehi | England | Fitness | Vor dem Viertelfinale vs. Norwegen fraglich gewesen | Niedrig — England kam trotzdem mit John Stones/Standardbesetzung durch (n.V.-Sieg) |
+| Diego Medina | Argentinien | Wadenproblem | Ausgewechselt im Viertelfinale vs. Schweiz | Mittel — weitere Defensiv-Baustelle neben Romero-Historie, Lisandro Martínez als Alternative |
 
 ---
 
@@ -56,11 +60,29 @@
 | Assim Madibo | Katar | Rote Karte (gefährliches Foul an Ismael Kone) | Runde 3 | Abgesessen | Niedrig — Katar schon ausgeschieden nach 0:6 vs. Kanada und Runde-1-Ergebnis |
 | Rebin Sulaka | Irak | Rote Karte (DOGSO) | Runde 3, 13' vs. Senegal | Abgesessen | Niedrig — Irak bereits ausgeschieden; Senegal ballerte trotzdem 5:0 |
 
+| Michael Olise | Frankreich | Gelbe Karte vs. Paraguay (Achtelfinale) — Verband legte Einspruch ein | Halbfinale vs. Spanien: 1 Gelbe von Sperre entfernt | Mittel — Olise droht bei erneuter Gelber die Sperre fürs mögliche Finale |
+| Manu Koné | Frankreich | Gelbe-Karten-Risiko | Muss im Halbfinale vs. Spanien vorsichtig agieren | Niedrig — kein akuter Ausfall, aber Kartenrisiko im Mittelfeldzentrum |
+| Harry Kane / Declan Rice / Jude Bellingham / Nico O'Reilly | England | Je 1 Gelbe Karte im Turnier | Gingen mit Verwarnung ins Viertelfinale vs. Norwegen | Hoch — bei erneuter Gelber im Halbfinale vs. Argentinien droht Sperre für ein mögliches Finale; einer dieser vier Schlüsselspieler ist bei Kartenakkumulation gefährdet |
+
 > **Gelbe Karten gelöscht:** Mit Ende der Gruppenphase werden alle Gelben Karten gestrichen. Niemand geht mit Vorwarnung in die KO-Runde (Reset gilt erneut nach dem Viertelfinale).
 
 ---
 
 ## 3. Top-Performances
+
+### Viertelfinale (9.–12. Jul)
+
+**Jude Bellingham** 🏴󠁧󠁢󠁥󠁮󠁧󠁿 — *Norwegen 1:2 n.V. England (11. Jul)*
+Doppelpack in der Verlängerung schickt England ins Halbfinale — Haaland bleibt trotz starkem Turnier ohne Wirkung gegen die englische Abwehr. Bellingham übernimmt in der K.o.-Runde endgültig die Führungsrolle.
+
+**Kylian Mbappé / Ousmane Dembélé** 🇫🇷 — *Frankreich 2:0 Marokko (9. Jul)*
+Mbappé verwandelt (nach verschossenem Elfmeter zuvor) und legt für Dembélé auf — Frankreich souverän ins Halbfinale, Mbappé führt weiter den Golden-Boot-Kampf an.
+
+**Fabián Ruiz / Pau Cubarsí** 🇪🇸 — *Spanien 2:1 Belgien (10. Jul)*
+Spanien dreht ein Verletzungs-Drama-Spiel (Tielemans, Courtois beide früh raus bei Belgien) für sich — Cubarsís Distanzschuss in der 88. entscheidet. Erstes Halbfinale seit dem Titel 2010.
+
+**Lionel Messi / Alexis Mac Allister** 🇦🇷 — *Argentinien 3:1 n.V. Schweiz (12. Jul)*
+Messi liefert die Vorlage (Eckball) zum 1:0 durch Mac Allister, bleibt selbst erstmals seit 10 Spielen ohne eigenes Tor — Julián Álvarez sichert mit dem zweiten Tor den Sieg nach Verlängerung ab.
 
 ### Runde 3 (24.–27. Juni)
 
@@ -127,6 +149,15 @@ Nicht ein Spieler, sondern das System: 7 Tore von 6 verschiedenen Schützen. Mus
 ---
 
 ## 4. Teamdynamik & Sonstige News
+
+**Das Halbfinale steht: FRA-ESP und ENG-ARG (Stand: nach Viertelfinale, 12. Jul)**
+Frankreich (2:0 vs. MAR) trifft am 14. Jul auf Spanien (2:1 vs. BEL) im AT&T Stadium, Arlington. England (2:1 n.V. vs. NOR) trifft am 15. Jul auf Argentinien (3:1 n.V. vs. SUI). Beide Halbfinals mit Top-5-Nationen — kein einziger Außenseiter hat es unter die letzten Vier geschafft, das Turnier folgt bislang der Papierform in der Crunch-Phase.
+
+**Belgiens Verletzungs-Drama im Viertelfinale (Stand: 10. Jul)**
+Kapitän Tielemans musste sich beim Aufwärmen verletzen, Stammkeeper Courtois schied in der 71. Minute mit Oberschenkelproblem aus — trotzdem hätte Belgien fast den Ausgleich gerettet. Für Spanien ein knapper, keineswegs überlegener Sieg.
+
+**England zittert sich mit Verlängerung weiter (Stand: 11. Jul)**
+Norwegen führte durch Haaland-Unterstützung defensiv stabil, Bellinghams Doppelpack in der Verlängerung rettet Tuchels Team. Vierter Elfmeter-/Verlängerungskrimi in Serie für England seit dem Achtelfinale — Cup-Fighter-Mentalität, aber physisch zehrend vor dem Halbfinale gegen Argentinien.
 
 **Paraguay schmeißt Deutschland raus — Cinderella-Story geht weiter (Stand: Sechzehntelfinale)**
 Paraguay gewinnt gegen Deutschland (Weltrangliste 12) im Elfmeterschießen. Als Drittplatzierter aus der Gruppe gegen einen Favoriten — jetzt wartet Frankreich. Das ist die größte Überraschung der KO-Runde bisher.
