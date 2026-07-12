@@ -127,7 +127,7 @@ Generiere für jedes offene Spiel einen El Profi Tipp basierend auf der Recherch
 - `⚡Hoch` — offenes Spiel, beide Teams auf Augenhöhe
 - `⚡Sehr hoch` — echter Coin-Flip, Außenseiter hat reale Chance
 
-**KO-Runden-Tipps:** Wenn du Elfmeter erwartest, tippe 1:1 nach 120min und schreib `n.E. [SIEGER]` — aber nur wenn du das wirklich für plausibel hältst. Bevorzuge konkrete Sieger.
+**KO-Runden-Tipps mit Elfmeter-Erwartung:** Tippe ein konkretes Endergebnis inkl. Elfmeter-Aufschlag (z.B. `3:4 n.E. ARG`, nicht `1:1 n.E. ARG` — kein KO-Spiel endet unentschieden). Erste Zahl = Heimteam, zweite Zahl = Auswärtsteam, in der Reihenfolge wie in der Spielpaarung. Bevorzuge konkrete Sieger.
 
 **Tipp in Spielplan-Datei schreiben:**
 Trage den Tipp in die Spalte `El Profi Tipp` der passenden Spielplan-Datei ein. Zeile suchen → Edit-Tool.
@@ -159,12 +159,12 @@ Bevor irgend etwas auf kicktipp.de eingetippt wird:
 
 Für jedes Spiel der Kategorie C — navigiere auf kicktipp.de zur tippabgabe-Seite:
 
-1. Trage Heimtore und Auswärtstore ein (nur die reguläre Spielzeit / 90min Ergebnis)
-2. Speichern / Absenden
-3. Verifiziere per `read_page` oder Screenshot dass der Tipp angenommen wurde
-4. Fahre mit nächstem Spiel fort
-
-**Wichtig:** Bei kicktipp.de tippt man das 90-Minuten-Ergebnis, nicht das Elfmeter-Ergebnis. Bei Erwartung von Elfmetern: tippe Unentschieden.
+1. Prüfe pro Spiel, ob kicktipp es explizit mit **„n.E."** kennzeichnet (steht direkt neben Datum/Teams, plus Erklärtext: "Bei einem 2:2 nach Verlängerung und einem 5:4 im Elfmeterschießen wird ein 7:6 gewertet."). Wenn ja: **trage das volle erwartete Endergebnis inkl. Elfmeter-Aufschlag ein** (z.B. 3:4), nicht das 90-Minuten-Ergebnis und nicht 1:1. Kein KO-Spiel endet unentschieden — auch der Tipp nicht.
+2. Nur wenn ein Spiel NICHT als „n.E." markiert ist (reguläre Gruppenphase o.ä.), das normale 90-Minuten-Ergebnis eintragen.
+3. Erstes Eingabefeld = Heimtore, zweites Feld = Auswärtstore — Reihenfolge der Teams auf der Seite beachten (nicht automatisch Favorit zuerst annehmen).
+4. Speichern / Absenden
+5. Verifiziere per `read_page`/`get_page_text` dass „Die Tipps wurden erfolgreich gespeichert" erscheint
+6. Fahre mit nächstem Spiel fort
 
 ---
 
@@ -210,7 +210,8 @@ Wenn alle Phasen abgeschlossen sind:
 
 ### Tipp-Notation
 - `**2:1 ESP** ⚡Mittel` — Gruppenphase und KO (normale Spielzeit)
-- `**1:1 n.E. POR** ⚡Hoch` — wenn Elfmeter erwartet
+- `**3:4 n.E. ARG** ⚡Hoch` — wenn Elfmeter erwartet: konkretes Endergebnis inkl. Elfmeter-Aufschlag, NIE `1:1` (kein KO-Spiel endet unentschieden). Reihenfolge Heim:Auswärts.
+- Auf kicktipp.de wird bei „n.E."-markierten Spielen exakt dieses Endergebnis eingetragen (nicht das 90-Minuten-Ergebnis) — kicktipp errechnet daraus selbst die Wertung.
 
 ### news/spieler-events.md Verletzungs-Tabelle
 ```
