@@ -1,6 +1,6 @@
 # Spieler-Events & News — WM 2026
 
-*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Halbfinale (12. Jul 2026), Tipps gesetzt*
+*Lebende Datei — wird nach jedem Spieltag aktualisiert. Stand: Finalwochenende (16. Jul 2026), Tipps gesetzt*
 
 ---
 
@@ -47,6 +47,11 @@
 | Kylian Mbappé | Frankreich | Knöchel-Blessur | Im 2:0 vs. Marokko in der 77. Min. ausgewechselt, laut eigener Aussage "komplett fit" für Spanien | Niedrig — vorsorgliche Schonung, kein echtes Ausfallrisiko |
 | Marc Guehi | England | Fitness | Vor dem Viertelfinale vs. Norwegen fraglich gewesen | Niedrig — England kam trotzdem mit John Stones/Standardbesetzung durch (n.V.-Sieg) |
 | Diego Medina | Argentinien | Wadenproblem | Ausgewechselt im Viertelfinale vs. Schweiz | Mittel — weitere Defensiv-Baustelle neben Romero-Historie, Lisandro Martínez als Alternative |
+| William Saliba | Frankreich | Verletzung im Halbfinale | Ging im 0:2 vs. Spanien unberührt zu Boden — Wettlauf gegen die Zeit fürs Spiel um Platz 3 (18. Jul vs. England) | Mittel — Frankreichs Abwehrchef fraglich, aber im Bronze-Spiel ohne Titel-Relevanz |
+| Declan Rice | England | Krankheit / Formsorgen | Vor dem VF vs. Norwegen erkrankt, spielte angeschlagen und wurde zur Pause ersetzt — Teil der englischen Defensivkrise | Mittel — England geht angeschlagen ins Spiel um Platz 3 |
+| Cristian Romero | Argentinien | Kniebeschwerden (geschont) | Im VF vs. Schweiz in der Verlängerung raus — laut ARG nur geschont, fürs Finale (19. Jul) fit | Niedrig — spielfähig fürs Finale |
+| Nico Williams | Spanien | zurück aus Verletzung | Nach früheren Turnier-Ausfällen wieder im Kader, aber "noch nicht bei voller Matchschärfe" | Niedrig — verfügbar fürs Finale |
+| Víctor Muñoz | Spanien | das ganze Turnier verletzt | Wird voraussichtlich fit genug für die Bank im Finale, Startelf-Einsatz unwahrscheinlich | Niedrig — reine Kadertiefe |
 
 ---
 
@@ -69,6 +74,14 @@
 ---
 
 ## 3. Top-Performances
+
+### Halbfinale (14.–15. Jul)
+
+**Spanien** 🇪🇸 — *Frankreich 0:2 Spanien (14. Jul)*
+La Roja schaltet Frankreich souverän aus und zieht ohne Gegentor ins Finale ein — insgesamt nur **1 Gegentor in 7 Turnierspielen**. Die stabilste Defensive des Turniers trifft im Endspiel auf den Titelverteidiger. Frankreichs Weltmeister-Traum ist geplatzt, Mbappé ohne Durchschlagskraft gegen Cubarsí/Le Normand.
+
+**Lionel Messi** 🇦🇷 — *England 1:2 Argentinien (15. Jul)*
+Zwei Vorlagen — Argentinien dreht auch dieses Spiel nach Rückstand und folgt damit dem Champion-Drehbuch. Der Titelverteidiger steht im Finale und jagt den vierten großen Titel in Serie (Copa 2021, WM 2022, Copa 2024).
 
 ### Viertelfinale (9.–12. Jul)
 
@@ -149,6 +162,12 @@ Nicht ein Spieler, sondern das System: 7 Tore von 6 verschiedenen Schützen. Mus
 ---
 
 ## 4. Teamdynamik & Sonstige News
+
+**Das Endspiel steht: Spanien vs. Argentinien (Stand: nach Halbfinale, 15. Jul)**
+Am 19. Jul im MetLife Stadium (New Jersey) trifft Spanien (2:0 vs. FRA) auf Titelverteidiger Argentinien (2:1 vs. ENG). Spanien geht als Buchmacher-Favorit (Quote 2,30 vs. 3,40) ins Finale: nur 1 Gegentor in 7 Spielen, das defensiv stabilste Team des Turniers. Argentinien setzt auf Messi (2 Assists im HF) und die Comeback-DNA des Champions — der vierte große Titel in Serie ist zum Greifen nah. Klassisches Duell: spanische Struktur/Ballbesitz gegen argentinische Turnier-Cleverness.
+
+**Spiel um Platz 3: Frankreich vs. England (Stand: nach Halbfinale, 15. Jul)**
+Am 18. Jul in Miami (Hard Rock Stadium) das Bronze-Duell der Halbfinal-Verlierer. Frankreich klarer Quoten-Favorit (1,88 vs. 3,80), aber Saliba angeschlagen; England mit anhaltender Defensivkrise und angeschlagenem Rice. Bronze-Spiele sind notorisch von der Tagesmotivation abhängig — Qualität spricht für Frankreich, das Ergebnis ist ein Coin-Flip in der Höhe.
 
 **Das Halbfinale steht: FRA-ESP und ENG-ARG (Stand: nach Viertelfinale, 12. Jul)**
 Frankreich (2:0 vs. MAR) trifft am 14. Jul auf Spanien (2:1 vs. BEL) im AT&T Stadium, Arlington. England (2:1 n.V. vs. NOR) trifft am 15. Jul auf Argentinien (3:1 n.V. vs. SUI). Beide Halbfinals mit Top-5-Nationen — kein einziger Außenseiter hat es unter die letzten Vier geschafft, das Turnier folgt bislang der Papierform in der Crunch-Phase.
